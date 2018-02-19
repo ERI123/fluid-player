@@ -337,5 +337,7 @@
 
 /*Mobile Layout*/
 .fluid_video_wrapper.mobile .skip_button, .fluid_video_wrapper.mobile .fluid_ad_cta {
-    bottom: 75px;
+    bottom: 10px;
+    font-size: 18px;
+    height:47px;
 }
